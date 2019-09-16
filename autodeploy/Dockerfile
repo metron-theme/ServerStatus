@@ -7,6 +7,10 @@ RUN apt-get -y install gcc g++ make git
 RUN git clone -b tanzhen https://github.com/addarmy/ServerStatus.git
 RUN cp -rf /ServerStatus/web/* /usr/share/nginx/html/
 
+RUN locale-gen zh_CN.UTF-8  
+ENV LANG zh_CN.UTF-8
+ENV LANGUAGE zh_CN.UTF-8
+ENV LC_ALL zh_CN.UTF-8
 
 WORKDIR /ServerStatus/server
 
