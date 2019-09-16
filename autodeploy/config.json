@@ -1,37 +1,396 @@
 {"servers":
 	[
 		{
-			"username": "s01",
-			"name": "node1",
+			"username": "uuyun",
+			"name": "uuyun",
 			"type": "xen",
 			"host": "host1",
-			"location": "cn",
-			"password": "USER_DEFAULT_PASSWORD"
+			"location": "主站",
+			"password": "Leeze"
 		},
 		{
-			"username": "s02",
-			"name": "node2",
-			"type": "vmware",
-			"host": "host2",
-			"location": "jp",
-			"password": "USER_DEFAULT_PASSWORD"
+			"username": "10",
+			"name": "G10",
+			"type": "xen",
+			"host": "host1",
+			"location": "深港",
+			"password": "Leeze"
 		},
 		{
-			"disabled": true,
-			"username": "s03",
-			"name": "node3",
-			"type": "Nothing",
-			"host": "host3",
-			"location": "fr",
-			"password": "USER_DEFAULT_PASSWORD"
+			"username": "15",
+			"name": "G15",
+			"type": "xen",
+			"host": "host1",
+			"location": "沪日",
+			"password": "Leeze"
 		},
 		{
-			"username": "s04",
-			"name": "ssss",
+			"username": "101",
+			"name": "101",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "102",
+			"name": "102",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "103",
+			"name": "103",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "104",
+			"name": "104",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "105",
+			"name": "105",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "106",
+			"name": "106",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "107",
+			"name": "107",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "108",
+			"name": "108",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "109",
+			"name": "109",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "110",
+			"name": "110",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "111",
+			"name": "111",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "112",
+			"name": "112",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "113",
+			"name": "113",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "114",
+			"name": "114",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港",
+			"password": "Leeze"
+		},
+		{
+			"username": "201",
+			"name": "201",
+			"type": "xen",
+			"host": "host1",
+			"location": "台湾",
+			"password": "Leeze"
+		},
+		{
+			"username": "202",
+			"name": "202",
+			"type": "xen",
+			"host": "host1",
+			"location": "台湾",
+			"password": "Leeze"
+		},
+		{
+			"username": "203",
+			"name": "203",
+			"type": "xen",
+			"host": "host1",
+			"location": "台湾",
+			"password": "Leeze"
+		},
+		{
+			"username": "204",
+			"name": "204",
+			"type": "xen",
+			"host": "host1",
+			"location": "台湾",
+			"password": "Leeze"
+		},
+		{
+			"username": "301",
+			"name": "301",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "302",
+			"name": "302",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "303",
+			"name": "303",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "304",
+			"name": "304",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "305",
+			"name": "305",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "306",
+			"name": "306",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "307",
+			"name": "307",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "308",
+			"name": "308",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "309",
+			"name": "309",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "310",
+			"name": "310",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "311",
+			"name": "311",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "312",
+			"name": "312",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国",
+			"password": "Leeze"
+		},
+		{
+			"username": "401",
+			"name": "401",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本",
+			"password": "Leeze"
+		},
+		{
+			"username": "402",
+			"name": "402",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本",
+			"password": "Leeze"
+		},
+		{
+			"username": "403",
+			"name": "403",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本",
+			"password": "Leeze"
+		},
+		{
+			"username": "510",
+			"name": "510",
+			"type": "xen",
+			"host": "host1",
+			"location": "韩国",
+			"password": "Leeze"
+		},
+		{
+			"username": "520",
+			"name": "520",
+			"type": "xen",
+			"host": "host1",
+			"location": "英国",
+			"password": "Leeze"
+		},
+		{
+			"username": "600",
+			"name": "600",
+			"type": "xen",
+			"host": "host1",
+			"location": "新加坡",
+			"password": "Leeze"
+		},
+		{
+			"username": "601",
+			"name": "601",
 			"type": "ssss",
 			"host": "ssss",
-			"location": "ssss",
-			"password": "USER_DEFAULT_PASSWORD"
+			"location": "新加坡",
+			"password": "Leeze"
+		},
+		{
+			"username": "701",
+			"name": "701",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "俄罗斯",
+			"password": "Leeze"
+		},
+		{
+			"username": "710",
+			"name": "710",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "俄罗斯",
+			"password": "Leeze"
+		},
+		{
+			"username": "902",
+			"name": "902",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "上海CN2",
+			"password": "Leeze"
+		},
+		{
+			"username": "910",
+			"name": "910",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "河南联通",
+			"password": "Leeze"
+		},
+		{
+			"username": "911",
+			"name": "911",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "镇江联通",
+			"password": "Leeze"
+		},
+		{
+			"username": "912",
+			"name": "912",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "镇江联通",
+			"password": "Leeze"
+		},
+		{
+			"username": "913",
+			"name": "913",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "镇江联通",
+			"password": "Leeze"
+		},
+		{
+			"username": "920",
+			"name": "920",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "河南移动",
+			"password": "Leeze"
+		},
+		{
+			"username": "921",
+			"name": "921",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "镇江移动",
+			"password": "Leeze"
 		}
 	]
 }
