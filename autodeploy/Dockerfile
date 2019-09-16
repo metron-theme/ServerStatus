@@ -1,6 +1,6 @@
 FROM nginx
 
-MAINTAINER cppla https://cpp.la
+MAINTAINER to:cppla https://cpp.la
 
 RUN apt-get update
 RUN apt-get -y install gcc g++ make git
