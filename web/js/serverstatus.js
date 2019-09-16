@@ -120,10 +120,10 @@ function uptime() {
 			// Online4
 			if (result.servers[i].online4) {
 				TableRow.children["online4"].children[0].children[0].className = "progress-bar progress-bar-success";
-				TableRow.children["online4"].children[0].children[0].innerHTML = "<small>开启</small>";
+				TableRow.children["online4"].children[0].children[0].innerHTML = "<small>在线</small>";
 			} else {
 				TableRow.children["online4"].children[0].children[0].className = "progress-bar progress-bar-danger";
-				TableRow.children["online4"].children[0].children[0].innerHTML = "<small>关闭</small>";
+				TableRow.children["online4"].children[0].children[0].innerHTML = "<small>离线</small>";
 			}
 
 			// Online6
@@ -138,10 +138,10 @@ function uptime() {
 			// Ipstatus
 			if (result.servers[i].ip_status) {
 				TableRow.children["ip_status"].children[0].children[0].className = "progress-bar progress-bar-success";
-				TableRow.children["ip_status"].children[0].children[0].innerHTML = "<small>MH361</small>";
+				TableRow.children["ip_status"].children[0].children[0].innerHTML = "<small>正常</small>";
 			} else {
 				TableRow.children["ip_status"].children[0].children[0].className = "progress-bar progress-bar-danger";
-				TableRow.children["ip_status"].children[0].children[0].innerHTML = "<small>MH370</small>";
+				TableRow.children["ip_status"].children[0].children[0].innerHTML = "<small>异常</small>";
 			}
 
 			// Name
