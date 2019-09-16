@@ -4,7 +4,7 @@ MAINTAINER cppla https://cpp.la
 
 RUN apt-get update
 RUN apt-get -y install gcc g++ make git
-RUN git clone https://github.com/addarmy/ServerStatus
+RUN git clone -b tanzhen https://github.com/addarmy/ServerStatus.git
 RUN cp -rf /ServerStatus/web/* /usr/share/nginx/html/
 
 
