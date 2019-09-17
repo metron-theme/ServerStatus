@@ -257,22 +257,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "401",
-			"name": "401",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本",
-			"password": "Leeze"
-		},
-		{
-			"username": "402",
-			"name": "402",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本",
-			"password": "Leeze"
-		},
-		{
 			"username": "403",
 			"name": "403",
 			"type": "xen",
