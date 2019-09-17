@@ -129,6 +129,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "150",
+			"name": "150",
+			"type": "xen",
+			"host": "host1",
+			"location": "澳门",
+			"password": "Leeze"
+		},
+		{
 			"username": "201",
 			"name": "201",
 			"type": "xen",
