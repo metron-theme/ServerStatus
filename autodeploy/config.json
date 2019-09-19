@@ -2,10 +2,18 @@
 	[
 		{
 			"username": "uuyun",
-			"name": "uuyun",
+			"name": "OVH",
 			"type": "xen",
 			"host": "host1",
 			"location": "主站",
+			"password": "Leeze"
+		},
+		{
+			"username": "uuyun2",
+			"name": "OVH 2",
+			"type": "xen",
+			"host": "host1",
+			"location": "副站",
 			"password": "Leeze"
 		},
 		{
