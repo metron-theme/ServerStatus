@@ -10,7 +10,7 @@
 		},
 		{
 			"username": "uuyun2",
-			"name": "OVH 2",
+			"name": "OVH2",
 			"type": "xen",
 			"host": "host1",
 			"location": "副站",
@@ -37,7 +37,7 @@
 			"name": "101",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港轻量",
 			"password": "Leeze"
 		},
 		{
@@ -45,7 +45,7 @@
 			"name": "102",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港轻量",
 			"password": "Leeze"
 		},
 		{
@@ -53,7 +53,7 @@
 			"name": "103",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港HKBN",
 			"password": "Leeze"
 		},
 		{
@@ -61,7 +61,7 @@
 			"name": "104",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港CMI",
 			"password": "Leeze"
 		},
 		{
@@ -69,7 +69,7 @@
 			"name": "105",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港CN2",
 			"password": "Leeze"
 		},
 		{
@@ -77,7 +77,7 @@
 			"name": "106",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港WTT",
 			"password": "Leeze"
 		},
 		{
@@ -85,7 +85,7 @@
 			"name": "107",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港CN2",
 			"password": "Leeze"
 		},
 		{
@@ -93,7 +93,7 @@
 			"name": "108",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港DMIT",
 			"password": "Leeze"
 		},
 		{
@@ -101,7 +101,7 @@
 			"name": "109",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港CN2",
 			"password": "Leeze"
 		},
 		{
@@ -109,7 +109,7 @@
 			"name": "110",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -117,7 +117,7 @@
 			"name": "111",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港HKBN",
 			"password": "Leeze"
 		},
 		{
@@ -125,7 +125,7 @@
 			"name": "112",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -133,7 +133,7 @@
 			"name": "114",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港HKBN",
 			"password": "Leeze"
 		},
 		{
@@ -141,7 +141,15 @@
 			"name": "132",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港",
+			"location": "香港HKT",
+			"password": "Leeze"
+		},
+		{
+			"username": "133",
+			"name": "133",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港HKBN",
 			"password": "Leeze"
 		},
 		{
@@ -149,7 +157,7 @@
 			"name": "150",
 			"type": "xen",
 			"host": "host1",
-			"location": "澳门",
+			"location": "澳门CTM",
 			"password": "Leeze"
 		},
 		{
@@ -157,7 +165,7 @@
 			"name": "201",
 			"type": "xen",
 			"host": "host1",
-			"location": "台湾",
+			"location": "台湾HiNET",
 			"password": "Leeze"
 		},
 		{
@@ -165,7 +173,7 @@
 			"name": "202",
 			"type": "xen",
 			"host": "host1",
-			"location": "台湾",
+			"location": "台湾HiNET",
 			"password": "Leeze"
 		},
 		{
@@ -173,7 +181,7 @@
 			"name": "203",
 			"type": "xen",
 			"host": "host1",
-			"location": "台湾",
+			"location": "台湾TWGate",
 			"password": "Leeze"
 		},
 		{
@@ -181,7 +189,7 @@
 			"name": "205",
 			"type": "xen",
 			"host": "host1",
-			"location": "台湾",
+			"location": "台湾TAIFo",
 			"password": "Leeze"
 		},
 		{
@@ -189,7 +197,7 @@
 			"name": "301",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -197,7 +205,7 @@
 			"name": "303",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -205,7 +213,7 @@
 			"name": "304",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国BGP",
 			"password": "Leeze"
 		},
 		{
@@ -213,7 +221,7 @@
 			"name": "305",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -221,7 +229,7 @@
 			"name": "306",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国MC",
 			"password": "Leeze"
 		},
 		{
@@ -229,7 +237,7 @@
 			"name": "307",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -237,7 +245,7 @@
 			"name": "308",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -245,7 +253,7 @@
 			"name": "309",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GT",
 			"password": "Leeze"
 		},
 		{
@@ -253,7 +261,7 @@
 			"name": "310",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -261,7 +269,7 @@
 			"name": "311",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国",
+			"location": "美国GT",
 			"password": "Leeze"
 		},
 		{
@@ -269,7 +277,7 @@
 			"name": "400",
 			"type": "xen",
 			"host": "host1",
-			"location": "日本",
+			"location": "日本IIJ",
 			"password": "Leeze"
 		},
 		{
@@ -277,7 +285,7 @@
 			"name": "403",
 			"type": "xen",
 			"host": "host1",
-			"location": "日本",
+			"location": "日本IIJ",
 			"password": "Leeze"
 		},
 		{
@@ -285,7 +293,7 @@
 			"name": "510",
 			"type": "xen",
 			"host": "host1",
-			"location": "韩国",
+			"location": "韩国KT",
 			"password": "Leeze"
 		},
 		{
@@ -293,7 +301,7 @@
 			"name": "520",
 			"type": "xen",
 			"host": "host1",
-			"location": "英国",
+			"location": "英国163",
 			"password": "Leeze"
 		},
 		{
@@ -301,7 +309,7 @@
 			"name": "600",
 			"type": "xen",
 			"host": "host1",
-			"location": "新加坡",
+			"location": "新加坡NTT",
 			"password": "Leeze"
 		},
 		{
@@ -309,7 +317,7 @@
 			"name": "601",
 			"type": "ssss",
 			"host": "ssss",
-			"location": "新加坡",
+			"location": "新加坡CN2",
 			"password": "Leeze"
 		},
 		{
@@ -317,7 +325,7 @@
 			"name": "701",
 			"type": "ssss",
 			"host": "ssss",
-			"location": "俄罗斯",
+			"location": "俄罗斯163",
 			"password": "Leeze"
 		},
 		{
@@ -325,7 +333,7 @@
 			"name": "710",
 			"type": "ssss",
 			"host": "ssss",
-			"location": "俄罗斯",
+			"location": "俄罗斯163",
 			"password": "Leeze"
 		},
 		{
@@ -333,7 +341,7 @@
 			"name": "720",
 			"type": "ssss",
 			"host": "ssss",
-			"location": "加拿大",
+			"location": "加拿大163",
 			"password": "Leeze"
 		},
 		{
@@ -373,7 +381,7 @@
 			"name": "913",
 			"type": "ssss",
 			"host": "ssss",
-			"location": "镇江联通",
+			"location": "徐州联通",
 			"password": "Leeze"
 		},
 		{
