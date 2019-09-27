@@ -289,6 +289,22 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "405",
+			"name": "405",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本AWS",
+			"password": "Leeze"
+		},
+		{
+			"username": "406",
+			"name": "406",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本AWS",
+			"password": "Leeze"
+		},
+		{
 			"username": "510",
 			"name": "510",
 			"type": "xen",
