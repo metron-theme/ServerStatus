@@ -1,6 +1,30 @@
 {"servers":
 	[
 		{
+			"username": "hangzhou",
+			"name": "HZ",
+			"type": "xen",
+			"host": "host1",
+			"location": "杭州阿里",
+			"password": "Leeze"
+		},
+		{
+			"username": "aws1",
+			"name": "AWS1",
+			"type": "xen",
+			"host": "host1",
+			"location": "主站",
+			"password": "Leeze"
+		},
+		{
+			"username": "aws2",
+			"name": "AWS2",
+			"type": "xen",
+			"host": "host1",
+			"location": "WEBAPI",
+			"password": "Leeze"
+		},
+		{
 			"username": "uuyun",
 			"name": "OVH",
 			"type": "xen",
