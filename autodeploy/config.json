@@ -177,6 +177,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "120",
+			"name": "120",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港Azure",
+			"password": "Leeze"
+		},
+		{
 			"username": "132",
 			"name": "132",
 			"type": "xen",
@@ -331,14 +339,6 @@
 		{
 			"username": "405",
 			"name": "405",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本AWS",
-			"password": "Leeze"
-		},
-		{
-			"username": "406",
-			"name": "406",
 			"type": "xen",
 			"host": "host1",
 			"location": "日本AWS",
