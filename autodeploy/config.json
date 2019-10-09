@@ -233,6 +233,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "us-dns",
+			"name": "US-DNS",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国DNS",
+			"password": "Leeze"
+		},
+		{
 			"username": "301",
 			"name": "301",
 			"type": "xen",
@@ -318,6 +326,14 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "美国GT",
+			"password": "Leeze"
+		},
+		{
+			"username": "313",
+			"name": "313",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国CN2",
 			"password": "Leeze"
 		},
 		{
