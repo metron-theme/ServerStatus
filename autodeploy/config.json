@@ -361,6 +361,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "401",
+			"name": "401",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本樱花",
+			"password": "Leeze"
+		},
+		{
 			"username": "403",
 			"name": "403",
 			"type": "xen",
