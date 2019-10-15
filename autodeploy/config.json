@@ -345,6 +345,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "315",
+			"name": "315",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国HE",
+			"password": "Leeze"
+		},
+		{
 			"username": "400",
 			"name": "400",
 			"type": "xen",
