@@ -157,7 +157,7 @@
 			"name": "113",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港WTT",
+			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -165,7 +165,15 @@
 			"name": "114",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港HKBN",
+			"location": "香港HGC",
+			"password": "Leeze"
+		},
+		{
+			"username": "116",
+			"name": "116",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -206,14 +214,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "台湾HiNET",
-			"password": "Leeze"
-		},
-		{
-			"username": "205",
-			"name": "205",
-			"type": "xen",
-			"host": "host1",
-			"location": "台湾TAIFo",
 			"password": "Leeze"
 		},
 		{
@@ -486,14 +486,6 @@
 			"type": "ssss",
 			"host": "ssss",
 			"location": "河南移动",
-			"password": "Leeze"
-		},
-		{
-			"username": "921",
-			"name": "921",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "镇江移动",
 			"password": "Leeze"
 		}
 	]
