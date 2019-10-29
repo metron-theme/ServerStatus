@@ -169,11 +169,27 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "115",
+			"name": "115",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港HKT",
+			"password": "Leeze"
+		},
+		{
 			"username": "116",
 			"name": "116",
 			"type": "xen",
 			"host": "host1",
 			"location": "香港HKT",
+			"password": "Leeze"
+		},
+		{
+			"username": "120",
+			"name": "120",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港Azure",
 			"password": "Leeze"
 		},
 		{
