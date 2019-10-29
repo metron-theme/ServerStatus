@@ -373,7 +373,7 @@
 			"name": "405",
 			"type": "xen",
 			"host": "host1",
-			"location": "日本AWS",
+			"location": "日本Aws",
 			"password": "Leeze"
 		},
 		{
@@ -382,6 +382,14 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "韩国KT",
+			"password": "Leeze"
+		},
+		{
+			"username": "511",
+			"name": "511",
+			"type": "xen",
+			"host": "host1",
+			"location": "韩国Aws",
 			"password": "Leeze"
 		},
 		{
@@ -414,14 +422,6 @@
 			"type": "ssss",
 			"host": "ssss",
 			"location": "新加坡CN2",
-			"password": "Leeze"
-		},
-		{
-			"username": "603",
-			"name": "603",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "新加坡Amazon",
 			"password": "Leeze"
 		},
 		{
