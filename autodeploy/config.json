@@ -369,6 +369,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "404",
+			"name": "404",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本GMO",
+			"password": "Leeze"
+		},
+		{
 			"username": "405",
 			"name": "405",
 			"type": "xen",
