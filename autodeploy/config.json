@@ -9,24 +9,8 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "uuyun",
-			"name": "主站",
-			"type": "xen",
-			"host": "host1",
-			"location": "美国",
-			"password": "Leeze"
-		},
-		{
 			"username": "aws1",
 			"name": "AWS1",
-			"type": "xen",
-			"host": "host1",
-			"location": "主站",
-			"password": "Leeze"
-		},
-		{
-			"username": "ovh",
-			"name": "OVH",
 			"type": "xen",
 			"host": "host1",
 			"location": "主站",
@@ -382,14 +366,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "日本Aws",
-			"password": "Leeze"
-		},
-		{
-			"username": "510",
-			"name": "510",
-			"type": "xen",
-			"host": "host1",
-			"location": "韩国KT",
 			"password": "Leeze"
 		},
 		{
