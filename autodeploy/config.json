@@ -193,14 +193,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "150",
-			"name": "150",
-			"type": "xen",
-			"host": "host1",
-			"location": "澳门CTM",
-			"password": "Leeze"
-		},
-		{
 			"username": "201",
 			"name": "201",
 			"type": "xen",
@@ -369,6 +361,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "406",
+			"name": "406",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本樱花",
+			"password": "Leeze"
+		},
+		{
 			"username": "511",
 			"name": "511",
 			"type": "xen",
@@ -467,14 +467,6 @@
 		{
 			"username": "911",
 			"name": "911",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "镇江联通",
-			"password": "Leeze"
-		},
-		{
-			"username": "912",
-			"name": "912",
 			"type": "ssss",
 			"host": "ssss",
 			"location": "镇江联通",
