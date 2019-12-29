@@ -65,14 +65,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "104",
-			"name": "104",
-			"type": "xen",
-			"host": "host1",
-			"location": "香港CMI",
-			"password": "Leeze"
-		},
-		{
 			"username": "105",
 			"name": "105",
 			"type": "xen",
@@ -313,6 +305,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "312",
+			"name": "312",
+			"type": "xen",
+			"host": "host1",
+			"location": "美国GIA",
+			"password": "Leeze"
+		},
+		{
 			"username": "313",
 			"name": "313",
 			"type": "xen",
@@ -382,6 +382,14 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "日本GMO",
+			"password": "Leeze"
+		},
+		{
+			"username": "510",
+			"name": "510",
+			"type": "xen",
+			"host": "host1",
+			"location": "韩国KT",
 			"password": "Leeze"
 		},
 		{
