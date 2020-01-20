@@ -69,7 +69,7 @@
 			"name": "105",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港CN2",
+			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -102,14 +102,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "香港CN2",
-			"password": "Leeze"
-		},
-		{
-			"username": "110",
-			"name": "110",
-			"type": "xen",
-			"host": "host1",
-			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -166,14 +158,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "香港Azure",
-			"password": "Leeze"
-		},
-		{
-			"username": "132",
-			"name": "132",
-			"type": "xen",
-			"host": "host1",
-			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
