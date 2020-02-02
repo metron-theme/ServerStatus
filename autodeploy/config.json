@@ -41,6 +41,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "21",
+			"name": "G21",
+			"type": "xen",
+			"host": "host1",
+			"location": "深港",
+			"password": "Leeze"
+		},
+		{
 			"username": "101",
 			"name": "101",
 			"type": "xen",
@@ -229,7 +237,7 @@
 			"name": "304",
 			"type": "xen",
 			"host": "host1",
-			"location": "美国BGP",
+			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
