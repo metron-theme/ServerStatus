@@ -417,14 +417,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "601",
-			"name": "601",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "新加坡CN2",
-			"password": "Leeze"
-		},
-		{
 			"username": "602",
 			"name": "602",
 			"type": "ssss",
@@ -494,14 +486,6 @@
 			"type": "ssss",
 			"host": "ssss",
 			"location": "徐州联通",
-			"password": "Leeze"
-		},
-		{
-			"username": "915",
-			"name": "915",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "上海联通",
 			"password": "Leeze"
 		},
 		{
