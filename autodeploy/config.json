@@ -9,6 +9,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "uuyun",
+			"name": "uuyun",
+			"type": "xen",
+			"host": "host1",
+			"location": "主站",
+			"password": "Leeze"
+		},
+		{
 			"username": "aws1",
 			"name": "AWS1",
 			"type": "xen",
@@ -101,7 +109,7 @@
 			"name": "108",
 			"type": "xen",
 			"host": "host1",
-			"location": "香港DMIT",
+			"location": "香港CN2",
 			"password": "Leeze"
 		},
 		{
@@ -110,6 +118,14 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "香港CN2",
+			"password": "Leeze"
+		},
+		{
+			"username": "110",
+			"name": "110",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港轻量",
 			"password": "Leeze"
 		},
 		{
