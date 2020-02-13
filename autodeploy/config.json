@@ -81,6 +81,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "104",
+			"name": "104",
+			"type": "xen",
+			"host": "host1",
+			"location": "香港HKBN",
+			"password": "Leeze"
+		},
+		{
 			"username": "105",
 			"name": "105",
 			"type": "xen",
