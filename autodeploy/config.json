@@ -361,14 +361,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "403",
-			"name": "403",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本IIJ",
-			"password": "Leeze"
-		},
-		{
 			"username": "404",
 			"name": "404",
 			"type": "xen",
