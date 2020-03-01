@@ -137,14 +137,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "111",
-			"name": "111",
-			"type": "xen",
-			"host": "host1",
-			"location": "香港HKBN",
-			"password": "Leeze"
-		},
-		{
 			"username": "112",
 			"name": "112",
 			"type": "xen",
@@ -214,14 +206,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "台湾HiNET",
-			"password": "Leeze"
-		},
-		{
-			"username": "204",
-			"name": "204",
-			"type": "xen",
-			"host": "host1",
-			"location": "台湾TFN",
 			"password": "Leeze"
 		},
 		{
@@ -358,14 +342,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "日本樱花",
-			"password": "Leeze"
-		},
-		{
-			"username": "404",
-			"name": "404",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本GMO",
 			"password": "Leeze"
 		},
 		{
